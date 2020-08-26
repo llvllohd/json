@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "mostpopular": [
+	{
+		"id":1,
+		"name": "Double Quarter Pounder with Cheese Meal",
+		"cal": "(790 - 1350 Cal.)",
+		"amount": "$12.29",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto,quality=50/https://cdn.doordash.com/media/photos/f4d0eb4a-a804-4fc3-903b-4c45d7229dc6-retina-large.jpg"
+	},
+	{
+		"id":2,
+		"name": "13 Cookie Tote",
+		"cal": "Comes with 13 cookies. (1820 - 2210 Cal.)",
+		"amount": "$5.89",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto,quality=50/https://cdn.doordash.com/media/photos/163f56c9-e94b-4558-b45e-41e4b9f2f342-retina-large.jpg"
+	},
+	{
+		"id":3,
+		"name": "Big Mac Meal",
+		"cal": "(560 - 1120 Cal.)",
+		"amount": "$11.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto,quality=50/https://cdn.doordash.com/media/photos/79ffceed-52b7-45e1-9606-36cd173572ae-retina-large.jpg"
+	},
+	{
+		"id":4,
+		"name": "French Fries",
+		"cal": "(220 Cal.)",
+		"amount": "$3.09",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/29868ab4-2205-4593-9388-5d77f1bc3a98-retina-large-jpeg"
+	}
+	],
+	"combomeals": [
+	{
+		"id":5,
+		"name": "Crispy Buttermilk Chicken Meal",
+		"cal": "(590 - 1150 Cal.)",
+		"amount": "$$11.39",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/ecc767fb-ca15-4f61-9018-0e4b2d667d39-retina-large-jpeg"
+	},
+	{
+		"id":6,
+		"name": "Oreo McFlurry",
+		"cal": "(340 Cal.)",
+		"amount": "$3.79",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/e7bb4627-110a-45f4-ba67-96e78a54959c-retina-large.jpg"
+	},
+	{
+		"id":7,
+		"name": "Bacon Quarter Pounder with Cheese Meal",
+		"cal": "(980 - 1220 Cal.)",
+		"amount": "$11.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/ca5573ae-9194-475a-a3e0-160ba44ebd44-retina-large-jpeg"
+	},
+	{
+		"id":8,
+		"name": "Quarter Pounder with Cheese Deluxe Meal",
+		"cal": "(610 - 1190 Cal.)",
+		"amount": "$14.19",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/20142e41-500b-4f2f-a055-be9b73125346-retina-large-jpeg"
+	}
+	],
+	"promotions": [
+	{
+		"id":9,
+		"name": "Big Mac Meal",
+		"cal": "(560 - 1120 Cal.)",
+		"amount": "$11.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/38b62d4e-5f8d-4a99-b25d-df576defb122-retina-large.jpg"
+	},
+	{
+		"id":10,
+		"name": "Quarter Pounder with Cheese Meal",
+		"cal": "(550 - 1110 Cal.)",
+		"amount": "$11.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/38b62d4e-5f8d-4a99-b25d-df576defb122-retina-large.jpg"
+	},
+	{
+		"id":11,
+		"name": "40 McNuggets & 2 L Fries",
+		"cal": "(2640 Cal.)",
+		"amount": "$25.79",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/f6dbb3cd-72ba-4826-b1d1-67d31b704056-retina-large-jpeg"
+	},
+	{
+		"id":12,
+		"name": "2 Large Fries",
+		"cal": "(980 Cal.)",
+		"amount": "$7.29",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/6f936da5-cae1-4583-9b91-9d96f0de90bc-retina-large-jpeg"
+	}
+	],
+	"sweets&treats": [
+	{
+		"id":13,
+		"name": "Blue Raspberry Slushie Minute Maid",
+		"cal": "(190 Cal.)",
+		"amount": "$3.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/163f56c9-e94b-4558-b45e-41e4b9f2f342-retina-large.jpg"
+	},
+	{
+		"id":14,
+		"name": "Quarter Pounder with Cheese Meal",
+		"cal": "(550 - 1110 Cal.)",
+		"amount": "$11.59",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/bfdfb673-f4db-45e4-b834-3253095e68d1-retina-large-jpeg"
+	},
+	{
+		"id":15,
+		"name": "Pink Lemonade Slushie Minute Maid",
+		"cal": "(2640 Cal.)",
+		"amount": "$25.79",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/f6dbb3cd-72ba-4826-b1d1-67d31b704056-retina-large-jpeg"
+	},
+	{
+		"id":16,
+		"name": "3 Pack Of Cookies",
+		"cal": "(980 Cal.)",
+		"amount": "$7.29",
+		"image": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1024,format=auto,quality=50/https://cdn.doordash.com/media/photos/22679a1b-a613-45ef-a558-e1e97a881549-retina-large.jpg"
+	}
+	]
+}
